@@ -1,0 +1,12 @@
+D:\LUIS\EXAMEN\UPC\WebAppCore\ProyectData\obj\Debug\net6.0\ProyectData.csproj.AssemblyReference.cache
+D:\LUIS\EXAMEN\UPC\WebAppCore\ProyectData\obj\Debug\net6.0\ProyectData.GeneratedMSBuildEditorConfig.editorconfig
+D:\LUIS\EXAMEN\UPC\WebAppCore\ProyectData\obj\Debug\net6.0\ProyectData.AssemblyInfoInputs.cache
+D:\LUIS\EXAMEN\UPC\WebAppCore\ProyectData\obj\Debug\net6.0\ProyectData.AssemblyInfo.cs
+D:\LUIS\EXAMEN\UPC\WebAppCore\ProyectData\obj\Debug\net6.0\ProyectData.csproj.CoreCompileInputs.cache
+D:\LUIS\EXAMEN\UPC\WebAppCore\ProyectData\bin\Debug\net6.0\ProyectData.deps.json
+D:\LUIS\EXAMEN\UPC\WebAppCore\ProyectData\bin\Debug\net6.0\ProyectData.dll
+D:\LUIS\EXAMEN\UPC\WebAppCore\ProyectData\bin\Debug\net6.0\ProyectData.pdb
+D:\LUIS\EXAMEN\UPC\WebAppCore\ProyectData\obj\Debug\net6.0\ProyectData.dll
+D:\LUIS\EXAMEN\UPC\WebAppCore\ProyectData\obj\Debug\net6.0\refint\ProyectData.dll
+D:\LUIS\EXAMEN\UPC\WebAppCore\ProyectData\obj\Debug\net6.0\ProyectData.pdb
+D:\LUIS\EXAMEN\UPC\WebAppCore\ProyectData\obj\Debug\net6.0\ref\ProyectData.dll
